@@ -4,7 +4,7 @@ A retro-futuristic voice journaling app featuring pixelated cats, vaporwave aest
 
 ## 🚀 Quick Start
 
-**Web App (Works Right Now!)**
+**Web App**
 ```bash
 cd neko-synth-diary
 npm install
